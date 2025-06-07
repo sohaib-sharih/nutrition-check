@@ -38,7 +38,6 @@ Before creating Custom GPTs, ensure you have the following:
                     <li>Once saved, it can be shared via a public link or accessed only by you.</li>
                 </ol>
             </li>
-            
         </ol>
     </li>
 </ol>
